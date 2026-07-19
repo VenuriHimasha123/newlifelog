@@ -41,8 +41,4 @@
 
 ---
 
-## 🚀 Installation & Setup
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/yourusername/Lyra.git](https://github.com/yourusername/Lyra.git)
