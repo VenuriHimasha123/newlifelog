@@ -5,9 +5,9 @@
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-<img width="100" height="200" alt="3" src="https://github.com/user-attachments/assets/af883b5a-0dbc-4626-a4ca-32dfee6a5eeb" />
-<img width="100" height="200" alt="2" src="https://github.com/user-attachments/assets/04e45461-58c4-42c6-b596-b5781f138900" />
-<img width="100" height="200" alt="1" src="https://github.com/user-attachments/assets/003c33e2-01ad-4726-91a3-cd2b7a2336c3" />
+<img width="150" height="250" alt="3" src="https://github.com/user-attachments/assets/af883b5a-0dbc-4626-a4ca-32dfee6a5eeb" />
+<img width="150" height="250" alt="2" src="https://github.com/user-attachments/assets/04e45461-58c4-42c6-b596-b5781f138900" />
+<img width="150" height="250" alt="1" src="https://github.com/user-attachments/assets/003c33e2-01ad-4726-91a3-cd2b7a2336c3" />
 
 **Lyra** is an AI-powered, highly secure, and intuitive life-logging Android application. Built to be more than just a standard CRUD journal, Lyra understands your emotions, tracks your locations, and securely syncs your memories across the cloud without compromising performance or privacy.
 
